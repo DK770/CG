@@ -1,3 +1,6 @@
+/* Problem statment: Write C++ program to draw the following pattern using Line drawing algorithms.
+   Use Bresenham’s line drawing algorithms for square and DDA line drawing algorithm for diamond*/
+
 #include "mainwindow.h"
 #include <QApplication>
 #include<QtGui>
